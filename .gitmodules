@@ -1,0 +1,3 @@
+[submodule "jackal_simulator"]
+	path = jackal_simulator
+	url = git@github.com:SwarmRobotics/jackal_simulator.git
